@@ -12,7 +12,7 @@ Aha! You found me! 👋
 📫 [Ins @harry.yiqi.yan](https://www.instagram.com/harry.yiqi.yan/)  
 🌈 Pronouns: He/His/Him  
 
-<img src="https://github.com/SaoYan/SaoYan/blob/master/programmer.gif" width="300px" align="center">
+<img src="https://github.com/SaoYan/SaoYan/blob/master/programmer.gif" width="200px" align="center">
 
 </td>
 
