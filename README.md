@@ -1,6 +1,7 @@
 Aha! You found me! 👋
 
-<table align="center"><tr>
+<table align="center" style="border:none;"><tr>
+
 <td valign="top" width="50%">
 
 🏙 Greate Vancouver  
@@ -11,11 +12,9 @@ Aha! You found me! 👋
 📫 [Ins @harry.yiqi.yan](https://www.instagram.com/harry.yiqi.yan/)  
 🌈 Pronouns: He/His/Him  
 
-	
 </td>
+
 <td valign="top" width="50%">
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yiqi/ed53d46f-a69d-4efb-b315-56ba8118dd6c.png" /></a>
-
 </td>
 </tr></table>
