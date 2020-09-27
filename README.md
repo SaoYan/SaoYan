@@ -1,6 +1,6 @@
 Aha! You found me! 👋  
 
-![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=nord&show_icons=true)  
+![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=nord&show_icons=true&count_private=true&include_all_commits=true)  
 
 <table align="center" style="border:none;"><tr>
 
