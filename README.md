@@ -1,10 +1,12 @@
 Aha! You found me! 👋  
 
+![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=nord&show_icons=true)  
+
 <table align="center" style="border:none;"><tr>
 
-<td valign="top" width="50%">
+<td style="text-align: left;" width="50%">
 
-🔑 GPG key hosted at [Keybase](https://keybase.io/saoyan/pgp_keys.asc). [Keybase proof](https://gist.github.com/SaoYan/143f3a967ccc41fffda83e6d58be718e).   
+🔑 GPG key hosted at [Keybase](https://keybase.io/saoyan/pgp_keys.asc). Check the [keybase proof](https://gist.github.com/SaoYan/143f3a967ccc41fffda83e6d58be718e).   
 🏙 Greate Vancouver  
 🎓 M.Sc Simon Fraser University  
 💻 SDE AWS Kinesis Data Stream  
@@ -17,7 +19,7 @@ Aha! You found me! 👋
 
 </td>
 
-<td valign="top" width="50%">
+<td style="text-align: left;" width="50%">
   
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yiqi/ed53d46f-a69d-4efb-b315-56ba8118dd6c.png" /></a>
 
