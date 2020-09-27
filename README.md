@@ -9,4 +9,4 @@ Aha! You found me! 👋
 📫 [Ins @harry.yiqi.yan](https://www.instagram.com/harry.yiqi.yan/)  
 🌈 Pronouns: He/His/Him   
 
-<img src="https://github.com/SaoYan/SaoYan/blob/master/programmer.gif" width="200px" align="center"> | ![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=nord&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21)
+![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=nord&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21)
