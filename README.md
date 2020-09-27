@@ -4,6 +4,7 @@ Aha! You found me! 👋
 
 <td valign="top" width="50%">
 
+🔑 GPG key hosted at [Keybase](https://keybase.io/saoyan/pgp_keys.asc). [Keybase proof](https://gist.github.com/SaoYan/143f3a967ccc41fffda83e6d58be718e).   
 🏙 Greate Vancouver  
 🎓 M.Sc Simon Fraser University  
 💻 SDE AWS Kinesis Data Stream  
