@@ -1,4 +1,4 @@
-Aha! You found me! 👋
+Aha! You found me! 👋  
 
 <table align="center" style="border:none;"><tr>
 
@@ -17,9 +17,6 @@ Aha! You found me! 👋
 </td>
 
 <td valign="top" width="50%">
-
-<div name="airvisual_widget" key="jcEphPxP5Kcfr54hv"></div>
-<script type="text/javascript" src="https://www.airvisual.com/scripts/widget_v2.0.js"></script>
   
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yiqi/ed53d46f-a69d-4efb-b315-56ba8118dd6c.png" /></a>
 
