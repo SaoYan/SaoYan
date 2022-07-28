@@ -16,5 +16,4 @@ Aha! You found me! 👋
 
 ![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21&hide_border=true)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaoYan&hide=TeX&layout=compact&theme=dark)
+<figure><embed src="https://wakatime.com/share/@saoyan/0d9d0f91-8f70-4ae3-8749-c84fbb79f065.svg"></embed></figure>
