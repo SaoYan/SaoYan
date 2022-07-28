@@ -1,16 +1,17 @@
-### Hi there 👋
+Aha! You found me! 👋  
 
-<!--
-**SaoYan/SaoYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏙 Greate Vancouver  
 
-Here are some ideas to get you started:
+🎓 M.Sc Simon Fraser University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 SDE Apple Media Product  
+
+ Apple fan.. I mean, BIG FAN  
+
+📷 Sony A7II, 16-35GM, 24-105G, 24GM, Zeiss 55mm  
+
+📫 [Ins @yiqiphotography](https://www.instagram.com/yiqiphotography/)  
+
+🌈 Pronouns: He/His/Him   
+
+![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21&hide_border=true)
