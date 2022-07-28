@@ -15,3 +15,6 @@ Aha! You found me! 👋
 🌈 Pronouns: He/His/Him   
 
 ![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaoYan&hide=TeX&layout=compact&theme=dark)
