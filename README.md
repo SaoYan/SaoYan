@@ -8,7 +8,7 @@ Aha! You found me! 👋
 
  Apple fan.. I mean, BIG FAN  
 
-📷 Sony A7II, 16-35GM, 24-105G, 24GM, Zeiss 55mm  
+📷 Sony A7III, 16-35GM, 24-105G, 24GM, Zeiss 55mm  
 
 📫 [Ins @yiqiphotography](https://www.instagram.com/yiqiphotography/)  
 
