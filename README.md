@@ -20,4 +20,4 @@
 🌈 Pronouns: He/His/Him
 <br/>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
+<a href="https://wakatime.com"><img align="center" src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
