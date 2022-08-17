@@ -1,10 +1,9 @@
-<a href="https://saoyan.github.io"><img src="https://img.shields.io/website?ddown_message=Offline&label=saoyan.github.io&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsaoyan.github.io" width="auto" height="32"></a>
-<br/>
-
 <a href="https://github.com/SaoYan"><img align="right" src="https://github-readme-stats.vercel.app/api?username=SaoYan&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21&hide_border=true"></a>
 
-## Aha! You found me! 👋  
+## Aha! You found me! 👋
 
+<a href="https://saoyan.github.io"><img src="https://img.shields.io/website?ddown_message=Offline&label=saoyan.github.io&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsaoyan.github.io" width="auto" height="32"></a>
+<br/>
 🏙 Greate Vancouver
 <br/>
 🎓 M.Sc Simon Fraser University
