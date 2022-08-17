@@ -6,15 +6,21 @@
 <br/>
 🏙 Greate Vancouver
 <br/>
+<br/>
 🎓 M.Sc Simon Fraser University
+<br/>
 <br/>
 💻 SDE Apple Media Product
 <br/>
+<br/>
  Apple fan.. I mean, BIG FAN
+<br/>
 <br/>
 📷 Sony A7III, 16-35GM, 24-105G, 24GM, Zeiss 55mm
 <br/>
+<br/>
 📫 [Ins @yiqiphotography](https://www.instagram.com/yiqiphotography/)
+<br/>
 <br/>
 🌈 Pronouns: He/His/Him
 <br/>
