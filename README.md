@@ -17,6 +17,14 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/📷-A7%20III-informational" />
+  <img src="https://img.shields.io/badge/📷-16--35mm%20F2.8-informational" />
+  <img src="https://img.shields.io/badge/📷-24--105mm%20F4-informational" />
+  <img src="https://img.shields.io/badge/📷-24mm%20F1.4-informational" />
+  <img src="https://img.shields.io/badge/📷-55mm%20F1.8-informational" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
