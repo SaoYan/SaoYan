@@ -29,8 +29,8 @@
 
 ### Credits
 
-<a href="anuraghazra/github-readme-stats"><img src="https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats"></a>
-<br/>
-<a href="Ileriayo/markdown-badges"><img src="https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges"></a>
-<br/>
-<a href="Envoy-VC/awesome-badges"><img src="https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Envoy-VC&repo=awesome-badges&show_owner=true)](https://github.com/Envoy-VC/awesome-badges"></a>
+[![anuraghazra/github-readme-stats](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ileriayo/markdown-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
+
+[![Envoy-VC/awesome-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Envoy-VC&repo=awesome-badges&show_owner=true)](https://github.com/Envoy-VC/awesome-badges)
