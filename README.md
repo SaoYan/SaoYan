@@ -17,11 +17,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📷-A7%20III-informational" />
-  <img src="https://img.shields.io/badge/📷-16--35mm%20F2.8-informational" />
-  <img src="https://img.shields.io/badge/📷-24--105mm%20F4-informational" />
-  <img src="https://img.shields.io/badge/📷-24mm%20F1.4-informational" />
-  <img src="https://img.shields.io/badge/📷-55mm%20F1.8-informational" />
+  <img src="https://img.shields.io/badge/📷-16--35mm%20f%2F2.8-informational" />
+  <img src="https://img.shields.io/badge/📷-24--105mm%20f%2F4-informational" />
+  <img src="https://img.shields.io/badge/📷-100--400mm%20f%2F4.5--5.6-informational">
+  <img src="https://img.shields.io/badge/📷-24mm%20f%2F1.4-informational" />
+  <img src="https://img.shields.io/badge/📷-55mm%20f%2F1.8-informational" />
 </p>
 
 <p>
@@ -32,9 +32,11 @@
 </p>
 
 
-<a href="https://www.exophase.com/user/iPlayPS/"><img src="https://card.exophase.com/2/0/179874.png?1670727122"></a>
+<a href="https://www.exophase.com/user/iPlayPS/">
+   <img style="height: 100%; width: 100%; object-fit: contain" src="https://card.exophase.com/2/0/179874.png?1670727122">
+</a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a> -->
 
 <hr/>
 
