@@ -33,7 +33,7 @@
 
 <a href="https://www.exophase.com/user/iPlayPS/"><img src="https://card.exophase.com/2/0/179874.png?1670624245"></a>
 
-<a href="https://github.com/SaoYan"><img src="https://github-readme-stats-saoyan.vercel.app//api?username=SaoYan&theme=github_dark&show_icons=true&count_private=false&include_all_commits=true&custom_title=Ta-da%21"></a>
+<a href="https://github.com/SaoYan"><img src="https://github-readme-stats-saoyan.vercel.app/api?username=SaoYan&theme=github_dark&show_icons=true&count_private=false&include_all_commits=true&custom_title=Ta-da%21"></a>
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a> -->
 
