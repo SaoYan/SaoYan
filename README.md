@@ -41,8 +41,8 @@
 
 ### Credits
 
-[![anuraghazra/github-readme-stats](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![anuraghazra/github-readme-stats](https://github-readme-stats-saoyan.vercel.app/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ileriayo/markdown-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
+[![Ileriayo/markdown-badges](https://github-readme-stats-saoyan.vercel.app/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
 
-[![Envoy-VC/awesome-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Envoy-VC&repo=awesome-badges&show_owner=true)](https://github.com/Envoy-VC/awesome-badges)
+[![Envoy-VC/awesome-badges](https://github-readme-stats-saoyan.vercel.app/api/pin/?theme=github_dark&username=Envoy-VC&repo=awesome-badges&show_owner=true)](https://github.com/Envoy-VC/awesome-badges)
